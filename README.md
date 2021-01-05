@@ -12,3 +12,6 @@ Folgende 20 Fehler treten momentan im DRC auf:
 8 - 19 Footprint has malformed courtyard (not a closed shape): Dieser Fehler tritt an mehreren Stellen eines Footprints auf, den ich in der library gefunden habe. Zoomt man an die markierten Stellen dich heran, sind kleine Ausbuchtungen der geraden Linien zu erkennen. Die Zeichnung ist also lediglich nicht ganz sauber, der Footprint jedoch vollständig und geschlossen.
 
 20 Silkscreen clipped by solder mask: Das betrifft eine kleine Stelle am Ufo. Ich habe dort eine Weile ausprobiert, wie ich die Linien ziehe, damit sie zwar geschlossen sind, aber nichts überschneiden. Letztendlich gibt es einen Berührungspunkt, da die Linie abgerundet ist, aber ich denke, das sollte kein Problem sein.
+
+
+Danke fürs Drüberschauen!
